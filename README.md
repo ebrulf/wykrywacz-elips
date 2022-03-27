@@ -21,6 +21,9 @@ Program w kolejności:
 * rysuje elipsy czarne na podstawie listy z punktu czwartego
 
 Program działa w 100% dla prostokątów i nienachodzących na siebie elips. Dla przecinających się elips program działa w 80%.
+
+Program działa na platofrmie .NET 3.1.0.
 ## Licencja
 Projekt udostępniony do wglądu, jak na razie wszelkie prawa zastrzeżone.
+
 Przerobione zdjęcie Juliana Tuwima - przeróbka autorska.
